@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    Stephan DuVal
 
 # TECHNOLOGY COLOPHON
 
